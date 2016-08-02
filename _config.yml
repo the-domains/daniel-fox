@@ -1,5 +1,6 @@
-layout_spectrum: 0.5732014589011669
 typography_spectrum: 0.8728020961862057
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5158841330558062
   lightness: 0.36072094133123755
@@ -11,5 +12,10 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.5732014589011669
+author:
+  name: Daniel Fox
+  email: danieljamesfox@yahoo.ca
+  url: 'http://www.danielfoxofficial.com/'
 name: Daniel Fox
 title: DanielFoxOfficial.com
