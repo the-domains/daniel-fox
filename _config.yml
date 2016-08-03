@@ -1,4 +1,4 @@
-typography_spectrum: 0.08790635480545461
+typography_spectrum: 0.1634478874038905
 content_rating:
   adult: false
 color:
@@ -12,7 +12,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.11097897519357502
+layout_spectrum: 0.4853542784694582
 author:
   name: Daniel Fox
   email: danieljamesfox@yahoo.ca
