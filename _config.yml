@@ -1,18 +1,18 @@
-typography_spectrum: 0.1634478874038905
+layout_spectrum: 0.5136712661478668
+typography_spectrum: 0.25464416830800474
+color:
+  brandStrength: 0.2765701536554843
+  lightness: 0.5469617103226483
+  saturation: 0.607925005024299
+  rhythmicContrast: 0.7705841239076108
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.9736212971620262
-  lightness: 0.3486732810270041
-  saturation: 0.6676986869424582
-  rhythmicContrast: 0.6203992974478751
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.4853542784694582
 author:
   name: Daniel Fox
   email: danieljamesfox@yahoo.ca
